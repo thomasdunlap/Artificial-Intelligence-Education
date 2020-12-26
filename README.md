@@ -18,9 +18,8 @@ A list of courses and resouces I've used for my Artificial Intellience education
 * Intro to Biology
 
 
-#### Foothill Community College
-* C++ Development Certification*
-  * Object-Oriented C++*
+#### Foothill Community College - C++ Development Certification*
+* Object-Oriented C++*
   
 
 ### MOOCs
