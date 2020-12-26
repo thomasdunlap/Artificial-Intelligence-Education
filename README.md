@@ -9,7 +9,7 @@ A list of courses and resouces I've used for my Artificial Intellience education
 #### Pomona College - Neuroscience, B.A.
 * Intro to Computer Science
 * Discrete Math
-* Calculs II
+* Calculus II
 * Intro to Statistics and Probability
 * Neurosensory Systems
 * Intro to Cognitive Science
@@ -68,7 +68,7 @@ A list of courses and resouces I've used for my Artificial Intellience education
 ## MOOCs
 * Self-Driving Car Nanodegree
   * Deep Learning and Computer Vision
-  * Perception and Locatization
+  * Perception and Localization
   * Advanced Deep Learning and Robotics
 * Machine Learning for Robotics*
 * ROS Deep Learning with Tensorflow*
