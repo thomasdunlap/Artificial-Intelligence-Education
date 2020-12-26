@@ -27,7 +27,8 @@ A list of courses and resouces I've used for my Artificial Intellience education
   * Object Oriented Data Structures in C++*
   * Ordered Data Structures*
   * Undordered Data Structures*
-  
+* Introduction to Operating Systems*
+
   
 ### Other Resources
 * Interview Cake*
@@ -64,7 +65,7 @@ A list of courses and resouces I've used for my Artificial Intellience education
 ## Robotics
 
 
-## MOOCs
+### MOOCs
 * Self-Driving Car Nanodegree
   * Deep Learning and Computer Vision
   * Perception and Localization
