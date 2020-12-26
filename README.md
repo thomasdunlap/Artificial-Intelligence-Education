@@ -1,6 +1,6 @@
 # Artificial Intelligence Courses and Resources
 
-A list of courses and resouces I've used for my Artificial Intellience education. Courses I'm in the process of completing are have an asterisk(*).
+A list of courses and resouces I've used for my Artificial Intellience education. Courses that are in progress have an asterisk(*).
 
 
 ## Computer Science
