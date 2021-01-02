@@ -15,9 +15,6 @@ A list of courses and resouces I've used for my Artificial Intellience education
 #### Foothill College - C++ Software Development Certification*
 * Object-Oriented C++*
 * Intermediate Data Structures in C++*
-  
-
-### MOOCs
 
 
 #### University of Illinois: Urbana Champaign - Accelerated Computer Science Fundamentals Specialization* 
@@ -34,9 +31,6 @@ A list of courses and resouces I've used for my Artificial Intellience education
   
 
 ## Data Science
-
-
-### MOOCs
 
 
 #### University of College London - Mathematics of Machine Learning Specialization*
@@ -56,9 +50,6 @@ A list of courses and resouces I've used for my Artificial Intellience education
 
 
 ## Robotics
-
-
-### MOOCs
 
 
 #### Udacity - Self-Driving Car Engieer Nanodegree
